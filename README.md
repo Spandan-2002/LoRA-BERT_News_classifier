@@ -63,7 +63,7 @@ Clone this repository and install the required dependencies:
 git clone https://github.com/Spandan-2002/LoRA-BERT_News_classifier.git
 cd LoRA-BERT_News_classifier
 pip install -r requirements.txt
-'''
+```
 
 ## Contributing
 Feel free to open issues or submit pull requests to improve the project.
